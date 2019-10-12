@@ -1,0 +1,5 @@
+----python2 gsearch.py 
+If you wish to search for multiples keywords in the file.
+
+--python2 gsearch.py hello
+If you wish to search for keywords give it as command line argument.
